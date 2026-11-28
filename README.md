@@ -1,6 +1,6 @@
 # RM405 Extended Range VU Meter · Meter
 
-Ward-Beck Systems RM405. Wiki page: [RM405 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM405.html)
+Ward-Beck Systems RM405. Wiki page: [RM405 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.RM405-Extended-Range-VU-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
